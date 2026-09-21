@@ -4,9 +4,9 @@ Trying to make something out of the many projects I did during my Master's in Ro
 
 🔨🚧 More projects coming soon.
 
-Just started building a homelab to get hands-on with Docker, containerization, and Linux distros.
+I also just started building a homelab to get hands-on with Docker, containerization, and Linux distros.
 
-- **First objective:** I promised my partner that I'd make the latest season of *Rick and Morty* available through a simple interface using my old ThinkPad as a server. I'll try to make it happen with Radarr, Sonarr, Jellyfin, and Jellyseerr.
+- **First objective:** I promised my partner that I'd make the latest season of *Rick and Morty* available through a simple interface using my old ThinkPad as a server. I'll try to make it happen with Jellyfin.
 
 - **Final goal:** self-host as much as possible and slowly get rid of big tech companies.
 
